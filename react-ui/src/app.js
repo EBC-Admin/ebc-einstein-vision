@@ -28,7 +28,7 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             Einstein ASML Vision Demo
+             The Einstein ASML Vision Demo
              <div className="detail">of the General Image Classifier</div>
           </h1>
         </div>
