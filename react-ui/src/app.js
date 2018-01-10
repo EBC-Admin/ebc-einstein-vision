@@ -28,8 +28,8 @@ class App extends Component {
       <div>
         <div className="title">
           <h1 className="intro">
-             The Einstein ASML Vision Demo
-             <div className="detail">of the General Image Classifier</div>
+             Salesforce Einstein Vision Demo
+             <div className="detail">of ASML TwinScan Productline Image Classifier</div>
           </h1>
         </div>
         <div className={classNames(
